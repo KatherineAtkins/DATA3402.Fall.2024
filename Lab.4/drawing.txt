@@ -1,3 +1,0 @@
-Rectangle(7, 3, 2, 2)
-Circle(4, 10, 10)
-Triangle(5, 4, 5, 15, 15)
